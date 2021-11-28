@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @charmindoge
-- 👀 I’m interested in networks and web development
-- 🌱 I’m currently learning networks and web development
+- 👀 I’m interested in cybersec, networks, statistics, trading
 - 📫 How to reach me: mail me at danielechianella [at] hotmail.it
