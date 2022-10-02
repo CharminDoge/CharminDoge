@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @charmindoge
-- 👀 I’m interested in cybersec, networks, statistics, trading
+- 👀 I’m interested in cybersec
 - 📫 How to reach me: mail me at danielechianella [at] hotmail.it
